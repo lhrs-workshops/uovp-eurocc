@@ -15,19 +15,30 @@ Izobraževanje je sestavljeno iz več manjših enot. Vsaka enota ima pripadajoč
 # Vsebina
 
 * [0 - Priprava izvajalnega okolja](0-Priprava_izvajalnega_okolja.md) *(priporočamo uporabo [Google Colab](https://colab.research.google.com); samo CPE!)*
-* [1 - Dokumentacija Pandas in namestitev](1-Dokumentacija_Pandas_in namestitev.ipynb)
+
+* [1- Dokumentacija Pandas in namestitev](1-Dokumentacija_Pandas_in_namestitev.ipynb)
+  * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhrs-workshops/uovp-eurocc/blob/main/1-Dokumentacija_Pandas_in_namestitev.ipynb)
+
+
 * [2 - Osnovne funkcionalnosti Pandas](2-Osnovne_funkcionalnosti_Pandas.ipynb)
+  * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhrs-workshops/uovp-eurocc/blob/main/2-Osnovne_funkcionalnosti_Pandas.ipynb)
   * Podatkovne strukture (Series, DataFrame)
   * Branje datotek (CSV, JSON)
   * Funkcije za vpogled v podatke
+  
 * [3 - Pandas in velepodatki](3-Pandas_in_velepodatki.ipynb)
+  * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhrs-workshops/uovp-eurocc/blob/main/3-Pandas_in_velepodatki.ipynb)
   * Postopno nalaganje podatkov
   * Dobre prakse in namigi
+
 * [4 - Prečiščevanje podatkov](4-Prečiščevanje_podatkov.ipynb)
+  * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhrs-workshops/uovp-eurocc/blob/main/4-Prečiščevanje_podatkov.ipynb)
   * Prazna polja
   * Preoblikovanje podatkov
   * Podvojeni podatki
+
 * [5 - Analiza in delo z velepodatki](5-Analiza_in_delo_z_velepodatki.ipynb)
+  * [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lhrs-workshops/uovp-eurocc/blob/main/5-Analiza_in_delo_z_velepodatki.ipynb)
   * Agregacija
   * Vizualizacija
 ---
